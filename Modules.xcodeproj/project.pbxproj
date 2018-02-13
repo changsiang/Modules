@@ -13,6 +13,7 @@
 		212242212032760300324802 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2122421F2032760300324802 /* Main.storyboard */; };
 		212242232032760300324802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 212242222032760300324802 /* Assets.xcassets */; };
 		212242262032760300324802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 212242242032760300324802 /* LaunchScreen.storyboard */; };
+		2122422E2032774100324802 /* ModulesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2122422D2032774100324802 /* ModulesModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		212242222032760300324802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		212242252032760300324802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		212242272032760300324802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2122422D2032774100324802 /* ModulesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModulesModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				212242222032760300324802 /* Assets.xcassets */,
 				212242242032760300324802 /* LaunchScreen.storyboard */,
 				212242272032760300324802 /* Info.plist */,
+				2122422D2032774100324802 /* ModulesModel.swift */,
 			);
 			path = Modules;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				2122421E2032760300324802 /* DetailViewController.swift in Sources */,
 				2122421C2032760300324802 /* MasterViewController.swift in Sources */,
 				2122421A2032760300324802 /* AppDelegate.swift in Sources */,
+				2122422E2032774100324802 /* ModulesModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
